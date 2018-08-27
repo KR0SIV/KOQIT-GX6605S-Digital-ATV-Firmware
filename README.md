@@ -6,14 +6,14 @@ By default the reciever will use a 50hz refresh rate, if you live in the USA You
 
 These channels are as follows. 
 
-    Channel		TP Freq		Polor		Symbol		True/Amateur Freq
+    Channel	    TP Freq	    Polor   Symbol	True/Amateur Freq
     
-    1       10992           H       2000        1242
-    2       10994           V       2000        1244
-    3       11004           H       2000        1254
-    4       11006           V       2000        1256
-    5       11028           H       2000        1278
-    6       11030           V       2000        1280
+    1           10992           H       2000        1242
+    2           10994           V       2000        1244
+    3           11004           H       2000        1254
+    4           11006           V       2000        1256
+    5           11028           H       2000        1278
+    6           11030           V       2000        1280
 
 
 The above are the channel corresponding channel/frequncy and transponder details.
