@@ -1,5 +1,5 @@
 # KOQIT-GX6605S-Digital-ATV-Firmware
-Modified firmware for the KOQIT K1Mini GX66605S for use as a digital amateur television receiver.
+Modified firmware for the KOQIT K1Mini GX6605S for use as a digital amateur television receiver.
 This firmware currently removes all satellites listed in these recievers and replaces it with six DATV channels for amateur television use.
 
 In the future I plan to futher modify the firmware to remove features unused by amateur operation.
