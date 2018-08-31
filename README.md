@@ -6,7 +6,7 @@ In the future I plan to futher modify the firmware to remove features unused by 
 
 ## Frequency Explaination
 
-By default the reciever will use a 50hz refresh rate, if you live in the USA You'll want to use the composite output to perform this update as HDMI will not fucntion at that refresh rate in this region. The flash with move you over to a 60hz refresh rate and change the settings needed to allow you to easily pull up your Digital ATV signal.
+By default the reciever will use a 50hz refresh rate, if you live in the USA You'll want to use the composite output to perform this update as HDMI will not fucntion at that refresh rate in this region. Depending on the flash you use you can keep the 50hz rate or switch to 60hz and change the settings needed to allow you to easily pull up your Digital ATV signal.
 
 These channels are as follows. 
 
